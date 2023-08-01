@@ -1,6 +1,6 @@
 import CodeChunk from "../../components/CodeChunk";
 
-export default function BranchesTerm () {
+export default function SubmodulesTerm () {
  return (
     <>
         <h1>Инициализация каталога с проектом (создание репозитория на локальной машине)</h1>
